@@ -1,0 +1,22 @@
+{
+  "name": "udemy-node-js",
+  "version": "1.0.0",
+  "description": "This Project covers all the coding pattern/solution that are required in order to start coding for node,js",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayank714/Udemy-NodeJs.git"
+  },
+  "author": "Mayank Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayank714/Udemy-NodeJs/issues"
+  },
+  "homepage": "https://github.com/mayank714/Udemy-NodeJs#readme",
+  "dependencies": {
+    "mongodb": "^5.1.0"
+  }
+}
