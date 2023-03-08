@@ -1,6 +1,6 @@
 // Require the http module
 const http = require("http");
-// const app = express();
+
 const server = http.createServer((req, res) => {
   // console.log(req) // To see the request body
   //    To write the response
